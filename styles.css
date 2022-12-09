@@ -1,0 +1,59 @@
+.formcontainer {
+    background-color: black;
+    width: 500px;
+    height: 560px;
+    margin:  auto;
+    font-family: 'Poppins', sans-serif;
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+
+}
+.checkwala{
+    display:flex;
+}
+h2{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 23px;
+}
+input{
+    height: 50px;
+    width: 90%;
+    margin: 14px 22px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+button {
+    width: 112px;
+    height: 40px;
+    border: 5px solid white;
+    background: none;
+    padding: 6px 10px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+}
+#check{
+    width: 31px;
+    height: 28px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    display: flex;
+}
+.lallan{
+    color: solid white;
+    margin: 2px;
+    font-size: 14px;
+}
+.calicon{
+    color:black;
+    display: flex;
+}
+#iconhai{
+    color:black;
+    margin-left: -49px;
+    margin-top: 26px;
+}
